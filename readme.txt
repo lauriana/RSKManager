@@ -1,9 +1,6 @@
-InstalaÁ„o do RSKManager: seguir os passos abaixo devido a descontinuidade da vers„o do adobe air utilizada para o desenvolvimento do jogo.
+Instala√ß√£o do RSKManager: seguir os passos abaixo devido a descontinuidade da vers√£o do adobe air utilizada para o desenvolvimento do jogo.
 
-1o) Modificar a data do sistema operacional para qualquer mÍs do ano de 2016
+1o) Instalar o adobe air para Windows: Adobe AIR 33.1.1.533
 2o) Descompactar o arquivo zip do jogo
-3o) Instalar o adobe air
-4o) Instalar o arquivo do jogo
-5o) Voltar a data atual do sistema operacional
-
-
+3o) Clique duas vezes no arquivo de instala√ß√£o do jogo: RSKM.air 
+4o) O jogo est√° pronto para ser testado em seu computador. 
